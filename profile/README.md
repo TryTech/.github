@@ -6,12 +6,6 @@
 
 Bem-vindo à organização TryTech! Somos uma comunidade apaixonada por tecnologia, dedicada a explorar e compartilhar conhecimento sobre as mais recentes tendências, ferramentas e práticas na área da tecnologia. Seja você um novato curioso ou um profissional experiente, aqui você encontrará recursos e projetos para aprimorar suas habilidades e se manter atualizado com o mundo da tecnologia.
 
-## Nossos Projetos
-
-- **[kml](https://github.com/TryTech/kml)**: Uma biblioteca javascript para manipular kml sem travar sua thread principal.
-
-Explore todos os nossos projetos em nosso [site](https://trytech.app/).
-
 ## Como Contribuir
 
 Se você está interessado em contribuir para nossos projetos, fique à vontade para explorar as issues abertas e os pull requests em andamento. Também incentivamos a criação de novas issues para reportar bugs, sugerir melhorias ou propor novos recursos.
